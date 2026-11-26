@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saavn Lyrics Overlay</string>
+    <string name="listener_service_name">Saavn Media Session Listener</string>
+    <string name="waiting_for_saavn">Waiting for JioSaavn...</string>
+    <string name="play_a_song_hint">Play a song in JioSaavn</string>
+    <string name="loading_lyrics">Searching LRCLIB...</string>
+    <string name="no_lyrics_found">No synced lyrics found for this track.</string>
+    <string name="instrumental_track">Instrumental track</string>
+</resources>
